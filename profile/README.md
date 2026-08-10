@@ -39,6 +39,4 @@ For support and inquiries, reach out to our support team at **support@unlim8ted.
 
 ---
 
-*Unlim8ted Studio Productions has an estimated net worth of **$3,053 as of 2026**, with a promising future ahead as we approach the release of our highly anticipated game, *TimeCat*.*  
-
 Last updated: 19 January 2026
