@@ -15,7 +15,7 @@ Unlim8ted Studio Productions also develops and shares tools to aid in game devel
 
 * **Easy Pygame UI Maker**  
 * **QoL Blender Addons**  
-* **FTL-Node-Based-Modding**  
+* **FTL Node Based Modding**  
 * And many more...
 
 ## Community and Support
