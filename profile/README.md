@@ -2,7 +2,7 @@
 
 **Unlim8ted Studios** is a dynamic entertainment production company based in the United States, founded in 2019 by an anonymous English programmer. Our mission is to create engaging and innovative gaming experiences for players around the world.
 
-## Our Games
+## A game we are currently working on:
 
 ### TimeCat
 * **Genre:** 2D Puzzle Platformer  
@@ -10,23 +10,11 @@
 * **Status:** Demo already available.  
 * **Planned Release:** TBA.
 
-### Unicornia
-* **Genre:** 2D Speed Running Platformer  
-* **Description:** In *Unicornia*, players race through levels, avoiding enemies and collecting coins to buy power-ups at the end of each stage. The game is designed to challenge speed and agility, delivering a thrilling platforming experience.  
-* **Availability:** Currently under development and planned for release on Windows, Linux, Android, and OS X.
-
-### Square Pixels
-* **Genre:** 2D Pixelated Sandbox Adventure  
-* **Description:** Inspired by the classic game *Terraria*, *Square Pixels* offers a rich pixel world filled with exploration, crafting, and action-packed adventures. Players can journey through diverse biomes, tackle monstrous challenges, and enjoy multiplayer fun.  
-* **Development:** Primarily developed in Python with a multiplayer system in C.  
-* **Planned Release:** 2025 on Steam and possibly GOG Galaxy.
-
 ## Development Tools and Contributions
 Unlim8ted Studio Productions also develops and shares tools to aid in game development, with multiple repositories available on GitHub, including:  
 
-* **Easy_pygame_UI-Maker**  
-* **Music-AI-Gen**  
-* **ChessVR**  
+* **Easy Pygame UI Maker**  
+* **QoL Blender Addons**  
 * **FTL-Node-Based-Modding**  
 * And many more...
 
